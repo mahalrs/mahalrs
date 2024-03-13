@@ -1,6 +1,9 @@
 ## 👋 Hi there, I'm Rajwinder
 
-<a href="https://www.linkedin.com/in/mahalrajwinder/" target="_blank"><img alt="Rajwinder Mahal | LinkedIn" height="36" src="./assets/linkedin.svg" /></a>
+Rajwinder Mahal is a skilled machine learning engineer, passionate about open-source software.
+
+<code><a href="https://www.linkedin.com/in/mahalrajwinder/" target="_blank"><img alt="Rajwinder Mahal | LinkedIn" height="36" src="./assets/linkedin.svg" /></a></code>
+&nbsp;&nbsp;<code><a href="https://www.mahal.dev" target="_blank"><img alt="Rajwinder Mahal | RSM website" height="36" src="./assets/www.jpg" /></a></code>
 
 ## 😄 NOW
 
